@@ -10,6 +10,12 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
+    "@fullcalendar/core": "^5.11.0",
+    "@fullcalendar/daygrid": "^5.11.0",
+    "@fullcalendar/interaction": "^5.11.0",
+    "@fullcalendar/list": "^5.11.0",
+    "@fullcalendar/timegrid": "^5.11.0",
+    "@fullcalendar/vue": "^5.11.0",
     "bootstrap": "^5.2.0-beta1",
     "vue": "^2.5.11"
   },
